@@ -2,6 +2,7 @@
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class ArrConcat {
     public static void main(String[] args) {
@@ -23,5 +24,12 @@ public class ArrConcat {
             pos++;
         }
         System.out.println(Arrays.toString(ans));
+
+        Integer[] b1 = {1, 2};
+        Integer[] b2 = {3, 4};
+        List list = new ArrayList(Arrays.asList(b1));
+        list.addAll(Arrays.asList(b2));
+        Object[] sol = list.toArray();
+        System.out.println(Arrays.toString(sol));
     }
 }
