@@ -1,10 +1,10 @@
-//1929. Concatenation of Array
+package array;//1929. Concatenation of Array
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ArrConcat {
+public class ArrayConcat {
     public static void main(String[] args) {
         int[] arr = new int[5];
         ArrayList<Integer> arr2 = new ArrayList<>(5);

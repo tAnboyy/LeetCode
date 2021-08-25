@@ -1,4 +1,4 @@
-//744. Find Smallest Letter Greater Than Target
+package binary_search;//744. Find Smallest Letter Greater Than Target
 
 public class NextGreatestLetter {
     public static void main(String[] args) {
