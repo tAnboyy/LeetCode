@@ -1,6 +1,5 @@
-package binary_search;//367. Valid Perfect Square
+package binarysearch;//367. Valid Perfect Square
 
-import java.math.BigInteger;
 import java.util.Scanner;
 
 public class ValidPerfectSquare {

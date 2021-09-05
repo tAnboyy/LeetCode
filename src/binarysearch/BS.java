@@ -1,4 +1,4 @@
-package binary_search;
+package binarysearch;
 //704. Binary Search
 public class BS {
     public static void main(String[] args) {
