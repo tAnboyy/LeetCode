@@ -3,7 +3,7 @@ package sorting;
 
 import java.util.Arrays;
 
-public class Dup {
+public class Duplicates {
     public static void main(String[] args) {
         int[] arr = {1};
         boolean ans = containsDuplicate(arr);

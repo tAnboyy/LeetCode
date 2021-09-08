@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class MatTranspose {
+public class MatrixTranspose {
     public static void main(String[] args) {
         int[][] mat = {
                 {1, 2},

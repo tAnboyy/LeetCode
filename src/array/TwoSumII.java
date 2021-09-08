@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //167. Two Sum II - Input array is sorted
-public class TwoSum2 {
+public class TwoSumII {
     public static void main(String[] args) {
         int[] A = {1, 2, 3};
         int target = 20;

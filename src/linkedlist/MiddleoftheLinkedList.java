@@ -10,6 +10,11 @@ class Node {
     }
 }
 
+//if(nums1.length > nums2.length) {
+//        return intersect(nums2, nums1);
+//        }
+//        Map<Integer, Integer> map
+
 public class MiddleoftheLinkedList {
     public static void main(String[] args) {
         Node head = new Node(10);

@@ -1,7 +1,7 @@
 package string;
 //557. Reverse Words in a String III
 
-public class ReverseInString3 {
+public class ReverseInStringIII {
     public static void main(String[] args) {
         String s = "Let's take LeetCode contest";
         String ans = reverseWords(s);
